@@ -1,0 +1,15 @@
+C:\Users\scott\Desktop\GrandCircus\Repositories\AscendingDescendingApp\AscendingDescending\bin\Debug\net6.0\AscendingDescending.exe
+C:\Users\scott\Desktop\GrandCircus\Repositories\AscendingDescendingApp\AscendingDescending\bin\Debug\net6.0\AscendingDescending.deps.json
+C:\Users\scott\Desktop\GrandCircus\Repositories\AscendingDescendingApp\AscendingDescending\bin\Debug\net6.0\AscendingDescending.runtimeconfig.json
+C:\Users\scott\Desktop\GrandCircus\Repositories\AscendingDescendingApp\AscendingDescending\bin\Debug\net6.0\AscendingDescending.dll
+C:\Users\scott\Desktop\GrandCircus\Repositories\AscendingDescendingApp\AscendingDescending\bin\Debug\net6.0\AscendingDescending.pdb
+C:\Users\scott\Desktop\GrandCircus\Repositories\AscendingDescendingApp\AscendingDescending\obj\Debug\net6.0\AscendingDescending.csproj.AssemblyReference.cache
+C:\Users\scott\Desktop\GrandCircus\Repositories\AscendingDescendingApp\AscendingDescending\obj\Debug\net6.0\AscendingDescending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scott\Desktop\GrandCircus\Repositories\AscendingDescendingApp\AscendingDescending\obj\Debug\net6.0\AscendingDescending.AssemblyInfoInputs.cache
+C:\Users\scott\Desktop\GrandCircus\Repositories\AscendingDescendingApp\AscendingDescending\obj\Debug\net6.0\AscendingDescending.AssemblyInfo.cs
+C:\Users\scott\Desktop\GrandCircus\Repositories\AscendingDescendingApp\AscendingDescending\obj\Debug\net6.0\AscendingDescending.csproj.CoreCompileInputs.cache
+C:\Users\scott\Desktop\GrandCircus\Repositories\AscendingDescendingApp\AscendingDescending\obj\Debug\net6.0\AscendingDescending.dll
+C:\Users\scott\Desktop\GrandCircus\Repositories\AscendingDescendingApp\AscendingDescending\obj\Debug\net6.0\refint\AscendingDescending.dll
+C:\Users\scott\Desktop\GrandCircus\Repositories\AscendingDescendingApp\AscendingDescending\obj\Debug\net6.0\AscendingDescending.pdb
+C:\Users\scott\Desktop\GrandCircus\Repositories\AscendingDescendingApp\AscendingDescending\obj\Debug\net6.0\AscendingDescending.genruntimeconfig.cache
+C:\Users\scott\Desktop\GrandCircus\Repositories\AscendingDescendingApp\AscendingDescending\obj\Debug\net6.0\ref\AscendingDescending.dll
